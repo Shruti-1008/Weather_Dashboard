@@ -14,11 +14,7 @@ Cloudy provides real-time weather information for any searched city using the Op
 * 💨 Wind speed
 * 👁️ Visibility
 * 🌡️ Atmospheric pressure
-* 📅 5-day weather forecast
-* ✨ Animated and aesthetic UI
-* 💎 Glassmorphism-style cards
-* 📱 Responsive design for mobile and desktop
-* ⚠️ Error handling for invalid cities and unavailable locations
+
 
 ## 🛠️ Technologies Used
 
