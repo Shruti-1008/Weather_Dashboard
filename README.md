@@ -1,4 +1,4 @@
-# ☁️ Cloudy — 
+# ☁️ Cloudy — weather dashboard
 
 A beautiful and responsive **weather dashboard** built with HTML, CSS, and JavaScript.
 
