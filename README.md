@@ -91,6 +91,16 @@ The design is intended to feel calm and minimal, similar to a modern weather app
 
 Possible future additions:
 
+* 🌙 Dark mode
+* 🌡️ Celsius/Fahrenheit toggle
+* ⏰ Hourly weather forecast
+* 🌧️ Precipitation probability
+* 🌅 Sunrise and sunset times
+* ⭐ Save favorite cities
+* 💾 Remember the last searched city
+* 🎨 Weather-based background themes
+* 📈 Temperature charts
+
 
 ## 🎯 Purpose
 
