@@ -1,4 +1,4 @@
-# ☁️ Cloudy — Weather Dashboard iudgfovihiodfv
+# ☁️ Cloudy — Weather Dashboard!
 
 A beautiful and responsive **weather dashboard** built with HTML, CSS, and JavaScript.
 
