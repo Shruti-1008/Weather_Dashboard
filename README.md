@@ -1,12 +1,8 @@
-# ☁️ Cloudy — Weather Dashboard!
+# ☁️ Cloudy — Weather Dashboard
 
 A beautiful and responsive **weather dashboard** built with HTML, CSS, and JavaScript.
 
 Cloudy provides real-time weather information for any searched city using the Open-Meteo API, with a clean aesthetic interface designed around soft gradients and glassmorphism.
-
-pupose:
-cuvkbkjb
-
 
 ## ✨ Features:
 
