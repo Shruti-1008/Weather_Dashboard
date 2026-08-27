@@ -6,7 +6,7 @@ Cloudy provides real-time weather information for any searched city using the Op
 
 ## ✨ Features
 
-* 🔍 Search weather by 
+* 🔍 Search weather by city name
 * 📍 Get weather for your current location
 * 🌡️ Real-time temperature
 * ☁️ Dynamic weather conditions and icons
